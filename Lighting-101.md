@@ -31,9 +31,18 @@
 
 ### In-class Flash Portrait
 
+An image with "a personality" of someone who is available during class or after school. The final product should be several images of your subject showing a variety of expressions. At least one should be useable as a "professional" image.
+
+#### Requirements
+
+* Well exposed (you might even say perfectly)
+* Lit using off-camera flash
+* Lighting diagram
+* Description of the "personality" you were going for
+
 #### Portrait Examples
 
-### Free Portrait
+#### Free Portrait
 
 ## Resources
 

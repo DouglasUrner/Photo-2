@@ -29,7 +29,11 @@
 
 ## Assessments:
 
-### Portrait
+### In-class Flash Portrait
+
+#### Portrait Examples
+
+### Free Portrait
 
 ## Resources
 

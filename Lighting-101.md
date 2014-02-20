@@ -53,3 +53,9 @@ An image with "a personality" of someone who is available during class or after 
 * _Light, Science, and Magic_:
 
 * Kirk Tuck's _Minimal Studio Lighting_ and _Minimal Location Lighting_
+
+### Lighting Diagrams
+
+* [Make Your Own Lighting Diagrams](http://phlearn.com/make-your-own-lighting-diagram)
+* [](http://www.youtube.com/watch?v=NuUloLFf9FQ)
+* []()
